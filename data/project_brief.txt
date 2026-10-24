@@ -1,0 +1,22 @@
+# Sample Project Brief
+
+Project Name: Personal Study Assistant
+
+## Objective
+Build a simple AI assistant that helps students understand study materials and organize their learning.
+
+## Requirements
+- Accept questions about a provided study document.
+- Identify the main topic and important points.
+- Explain difficult concepts in beginner-friendly language.
+- Keep answers grounded in the supplied document.
+- Clearly state when the document does not contain enough information to answer a question.
+
+## Constraints
+- Start with local text files.
+- Use Python for document reading and input validation.
+- Keep the first version simple and affordable.
+- Do not invent facts that are not supported by the document.
+
+## Success Criteria
+The assistant can read the approved document, retrieve its contents through a Python tool, and answer questions using the returned information.
